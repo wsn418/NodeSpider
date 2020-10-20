@@ -13,6 +13,7 @@ Node.js v12.18.2.
 ```
 ## 运行
 ```
+npm install
 node index.js
 ```
 ## 访问
